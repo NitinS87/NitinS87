@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **NitinS87/NitinS87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,8 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-I'm Nitin Sharma, a MERN stack developer and currently learning NextJS. I'm also learning Flutter and Dart Development
+Hi there👋, I'm Nitin Sharma👨‍💻, a MERN stack developer💻 and currently learning NextJS. 
+🌱I'm also learning Flutter and Dart📱Development
 
 ## 🌐 Socials:
 
